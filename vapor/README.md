@@ -1,6 +1,6 @@
 # vapor
 
-created by [/u/__geb][geb] for the [r/unixporn][unixporn] [colorcontest][colorcontest]
+created by [u/__geb][geb] for the [r/unixporn][unixporn] [colorcontest][colorcontest]
 
 wallpaper from their [colorcontest entry post][unixporn-post]
 
