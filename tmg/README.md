@@ -6,4 +6,4 @@ wallpaper from tmg's poster
 
 ![tmg][tmg]
 
-[tmp]: tmg.jpg
+[tmg]: tmg.jpg
